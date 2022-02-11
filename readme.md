@@ -6,7 +6,7 @@ In Task1, I have designed the Menu page which UI design has been given to us by 
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/50498182/153627727-b3268092-9801-48e7-9c39-40462e589c1f.png">
 
-In Task2, I have made a Food Website HTML static page using HTML tags.
+In Task2, I have made a Food Website HTML static page using HTML5 tags and CSS.
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/50498182/153627784-85ce489b-c004-4f26-a439-0a14de32d187.png">
 
